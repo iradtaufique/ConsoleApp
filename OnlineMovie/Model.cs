@@ -20,6 +20,8 @@ namespace OnlineMovie
         public int MovieId { get; set; }
         public string title { get; set; }
         public string year { get; set; }
+        public string bugdet { get; set; }
         public string category_name { get; set; }
+        
     }
 }
